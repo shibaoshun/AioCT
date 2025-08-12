@@ -12,10 +12,9 @@ conda create -n AioCT python=3.10
 conda activate AioCT
 pip install -r requirements.txt
 ```
-Install selective_scan_cuda_oflex_rh
-```
+##Install selective_scan_cuda_oflex_rh
 [Spatial-Mamba](https://github.com/EdwardChasel/Spatial-Mamba)
-```
+
 ## Training and Testing
 Training and Testing codes for RSEN, SAM and RepFormer are provided in their respective directories.
 + RSEN: Rain streak estimation network to estimate rain streak information.
