@@ -3,7 +3,7 @@ Baoshun Shi，Chaowei Wang, Ke Jiang
 ## Abatract
 
 
-![image name](https://github.com/shibaoshun/RepFormer/blob/4ceb46455db4b24fa1f99075d01ca9832735e31e/figs/RepFormer.png)
+![image name](https://github.com/shibaoshun/AioCT/fig/AioCT.jpg)
 ## Installation
 The model is built in PyTorch 1.10.0 and  trained with NVIDIA 2080Ti GPU.
 For installing, follow these intructions
