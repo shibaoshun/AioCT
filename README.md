@@ -1,9 +1,7 @@
 # AioCT: All-in-One CT Artifact Reduction
 Baoshun Shi，Chaowei Wang, Ke Jiang
 ## Abatract
-
-![Image text](https://github.com/shibaoshun/AioCT/fig/AioCT.jpg)
-![image name](https://github.com/shibaoshun/AioCT/fig/AioCT.jpg)
+![image name](https://github.com/shibaoshun/AioCT/blob/main/fig/AioCT.jpg)
 ## Installation
 The model is built in PyTorch 1.10.0 and  trained with NVIDIA 2080Ti GPU.
 For installing, follow these intructions
