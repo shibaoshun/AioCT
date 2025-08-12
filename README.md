@@ -3,7 +3,7 @@ Baoshun Shi，Chaowei Wang, Ke Jiang
 ## Abatract
 ![image name](https://github.com/shibaoshun/AioCT/blob/main/fig/AioCT.jpg)
 ## Installation
-The model is built in PyTorch 1.10.0 and  trained with NVIDIA 2080Ti GPU.
+The model is built in PyTorch 2.0.1 and  trained with NVIDIA 4090 GPU.
 For installing, follow these intructions
 ```
 conda create -n AioCT python=3.10
@@ -14,12 +14,10 @@ pip install -r requirements.txt
 [Spatial-Mamba](https://github.com/EdwardChasel/Spatial-Mamba)
 
 ## Training and Testing
-Training and Testing codes for RSEN, SAM and RepFormer are provided in their respective directories.
-+ RSEN: Rain streak estimation network to estimate rain streak information.
-+ SAM: Segment anything to estimate image edges.
-+ RepFormer: Remove rain streaks using rain streaks and image edges.
+Training and Testing codes for AioCT are provided in directories.
+
 ## Dataset
-We train and test our RepFormer in Rain100L, Rain200L. The download links of datasets are provided.
+We train and test our AioCT on Deeplesion. The download links of datasets are provided.
 + Rain100L: 200 training pairs and 100 testing pairs. Download from [Datasets](https://pan.baidu.com/s/16n5hKHkr2rKlz2kBlI5JSQ?pwd=wxdm).
 + Rain200L: 1800 training pairs and 200 testing pairs. Download from [Datasets](https://pan.baidu.com/s/16n5hKHkr2rKlz2kBlI5JSQ?pwd=wxdm).
 ## Pre-trained Models  
