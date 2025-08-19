@@ -34,4 +34,4 @@ You can download the testing datasets from the following Baidu Drive link:
 
 ## Results
 
-![image-20250512164910204](https://github.com/shibaoshun/DeepGSR/blob/main/figs/fig2.jpg)
+![image-20250512164910204](https://github.com/shibaoshun/AioCT/blob/main/fig/result.jpg)
