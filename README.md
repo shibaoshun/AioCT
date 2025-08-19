@@ -23,7 +23,7 @@ You can download the testing datasets from the following Baidu Drive link:
 🔗 [https://pan.baidu.com/s/1APDq6wwOAvHLRP8TWI93kw?pwd=2025](https://pan.baidu.com/s/1APDq6wwOAvHLRP8TWI93kw?pwd=2025)
 
 🔑 Password: `2025`
-+ Download from [Datasets](https://pan.baidu.com/s/1APDq6wwOAvHLRP8TWI93kw?pwd=2025).
+
 ## Pre-trained Models  
 
 📁 `result`
