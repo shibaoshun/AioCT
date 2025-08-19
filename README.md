@@ -17,6 +17,7 @@ pip install -r requirements.txt
 
 ## Dataset
 You can download the testing datasets from the following Baidu Drive link:
+
 📁 `data`
 
 🔗 [https://pan.baidu.com/s/1APDq6wwOAvHLRP8TWI93kw?pwd=2025](https://pan.baidu.com/s/1APDq6wwOAvHLRP8TWI93kw?pwd=2025)
@@ -24,7 +25,7 @@ You can download the testing datasets from the following Baidu Drive link:
 🔑 Password: `2025`
 + Download from [Datasets](https://pan.baidu.com/s/1APDq6wwOAvHLRP8TWI93kw?pwd=2025).
 ## Pre-trained Models  
-Please download checkpoints from (https://pan.baidu.com/s/1XGx1EMfzTgGROTdukM9skQ?pwd=2025).
+
 📁 `result`
 
 🔗 [https://pan.baidu.com/s/1XGx1EMfzTgGROTdukM9skQ?pwd=2025](https://pan.baidu.com/s/1XGx1EMfzTgGROTdukM9skQ?pwd=2025)
