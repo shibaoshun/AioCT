@@ -36,3 +36,10 @@ You can download the testing datasets from the following Baidu Drive link:
 ## Results
 
 ![image-20250512164910204](https://github.com/shibaoshun/AioCT/blob/main/fig/result.jpg)
+
+
+## License and Acknowledgement
+
+The codes are based on [ShadowFormer](https://github.com/GuoLanqing/ShadowFormer). Please also follow their licenses. Thanks for their awesome works. 
+
+
