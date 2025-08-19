@@ -19,11 +19,4 @@ We train and test our AioCT on Deeplesion. The download links of datasets are pr
 
 + Download from [Datasets](https://pan.baidu.com/s/1APDq6wwOAvHLRP8TWI93kw?pwd=2025).
 ## Pre-trained Models  
-### For RSEN
-Please download checkpoints from (https://pan.baidu.com/s/1VyZRqqfCUSZm5zilCIlw9g?pwd=edij).
-
-## Performance Evaluation 
-
-
-## Acknowledgements
-
+Please download checkpoints from (https://pan.baidu.com/s/1XGx1EMfzTgGROTdukM9skQ?pwd=2025).
