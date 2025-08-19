@@ -14,7 +14,7 @@ conda activate AioCT
 pip install -r requirements.txt
 ```
 ## Install selective_scan_cuda_oflex_rh
-[Spatial-Mamba](https://github.com/EdwardChasel/Spatial-Mamba)
+Please refer to [Spatial-Mamba](https://github.com/EdwardChasel/Spatial-Mamba)
 
 ## Dataset
 You can download the testing datasets from the following Baidu Drive link:
